@@ -1,0 +1,6 @@
+  #include<stdio.h>
+  intmain(void)
+  {
+    inta,b;  
+    printf("Enter two integers:");
+    scanf("%d%d",&a,&b)                                                                    
